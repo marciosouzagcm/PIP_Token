@@ -115,5 +115,3 @@ Aqui, a conta 0x4567...defg pode gastar até 500 tokens do seu saldo.
 ## Licença
 Este projeto está licenciado sob a licença MIT.
 ```
-
-Agora você pode copiar e colar tudo isso no seu `README.md`! Se precisar de mais alguma coisa, estou aqui.
